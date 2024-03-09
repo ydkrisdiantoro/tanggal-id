@@ -1,0 +1,17 @@
+{
+    "name": "vonslab/tanggal-id",
+    "description": "Mengubah tanggal menjadi format bahasa Indonesia",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Vonslab\\TanggalId\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yayan Dwi Krisdiantoro",
+            "email": "y.d.krisdiantoro@gmail.com"
+        }
+    ],
+    "require": {}
+}
